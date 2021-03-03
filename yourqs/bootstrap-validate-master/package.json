@@ -76,7 +76,7 @@
     "postcss": "^6.0.22",
     "postcss-loader": "^2.1.4",
     "prettier": "^1.12.1",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-html-loader": "^1.1.5",
     "resolve-url-loader": "^2.3.0",
     "sass-loader": "^7.0.1",
